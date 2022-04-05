@@ -6,11 +6,11 @@ En este taller estaremos realizando la modelación de datos de 6 clases 3 entreg
 
 ### Ejecución 
 
-openjdk version "11.0.14.1" 2022-02-08
-OpenJDK Runtime Environment (build 11.0.14.1+1-Ubuntu-0ubuntu1.20.04)
-OpenJDK 64-Bit Server VM (build 11.0.14.1+1-Ubuntu-0ubuntu1.20.04, mixed mode, sharing)
+- openjdk version "11.0.14.1" 2022-02-08
+- OpenJDK Runtime Environment (build 11.0.14.1+1-Ubuntu-0ubuntu1.20.04)
+- OpenJDK 64-Bit Server VM (build 11.0.14.1+1-Ubuntu-0ubuntu1.20.04, mixed mode, sharing)
 
-Ejecutado con intellij idea ultimate
+- Ejecutado con intellij idea ultimate
 
 ### Paquetes 
 
